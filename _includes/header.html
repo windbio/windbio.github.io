@@ -5,11 +5,13 @@
             <span class="site-description">{{site.user_title}}</span>
         </h1>
         <div class="header-icons">
-            <a aria-label="Email" href="mailto: {{ site.email }}"><i class="icon fa fa-envelope"></i></a>
+            <a aria-label="Bilibili" target="_blank" href="https://space.bilibili.com/{{ site.bilibili }}"><i class="icon fa-brands fa-bilibili" aria-hidden="true"></i></a>
+            <a aria-label="Weibo" target="_blank" href="https://weibo.com/u/{{ site.weibo }}"><i class="icon fa-brands fa-weibo" aria-hidden="true"></i></a>
             <a aria-label="Github" target="_blank" href="https://github.com/{{ site.github }}"><i class="icon fa-brands fa-github-alt" aria-hidden="true"></i></a>
+            <a aria-label="Email" href="mailto: {{ site.email }}"><i class="icon fa fa-envelope"></i></a>
         </div>
         <div class="header-links">
-            <a class="link" href="#about" data-scroll>关于我</a>
+            <a class="link" href="#about" data-scroll>关于</a>
             <a class="link" href="#projects" data-scroll>项目</a>
         </div>
     </div>
