@@ -4,11 +4,11 @@ This is profile page of @windbio.
 
 The theme features:
 
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
+- [SASS](https://sass-lang.com/)
+- [Sweet Scroll](https://github.com/tsuyoshiwada/sweet-scroll)
+- [Particle.js](https://github.com/marcbruederlin/particles.js)
+- [Font Awesome](https://fontawesome.com)
+- [Devicon](https://devicon.dev/)
 - Info Customization
 
 ## Basic Setup
