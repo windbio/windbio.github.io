@@ -1,8 +1,8 @@
-<div id="particles-js">
+<div id="home">
     <div class="header">
         <h1>
-            <span class="site-title">{{ site.username }}</span>
-            <span class="site-description">{{ site.user_title }}</span>
+            <span class="site-title">{{ site.title }}</span>
+            <span class="site-description">{{ site.description }}</span>
         </h1>
         <div class="header-icons">
             <a aria-label="Bilibili" target="_blank" href="https://space.bilibili.com/{{ site.bilibili }}"><i class="icon fa-brands fa-bilibili" aria-hidden="true"></i></a>
@@ -11,10 +11,9 @@
             <a aria-label="Email" href="mailto: {{ site.email }}"><i class="icon fa fa-envelope"></i></a>
         </div>
         <div class="header-links">
-            <a class="link" href="#about" data-scroll>关于</a>
-            <a class="link" target="_blank" href="https://windbio.notion.site/8b6e8d1bca424c6997dbe5e1c6365f2e">项目</a>
-            <a class="link" target="_blank" href="https://windbio.notion.site/310ea5b4d41d484586bed37e482d8b8a">博客</a>
+            <a class="link" href="{{ site.about }}">关于</a>
+            <a class="link" href="{{ site.project }}">项目</a>
+            <a class="link" href="{{ site.blog }}">博客</a>
         </div>
     </div>
-    <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
 </div>

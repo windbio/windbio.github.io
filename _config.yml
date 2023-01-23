@@ -1,12 +1,11 @@
-# Site settings
 title: 丰主义
-description: Windism
+description: 向往自由
 
-# User settings
-username: 丰主义
-user_title: 自由职业
-user_description: 一个爱分享的机器人
-github: windbio
-email: windism@qq.com
 bilibili: 3493119548984089
 weibo: 7814590825
+github: windbio
+email: windism@qq.com
+
+about: https://windbio.notion.site/066ebdf812d74895b32b4c0ffc9431a3
+project: https://windbio.notion.site/8b6e8d1bca424c6997dbe5e1c6365f2e
+blog: https://windbio.notion.site/310ea5b4d41d484586bed37e482d8b8a

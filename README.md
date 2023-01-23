@@ -1,14 +1,11 @@
 # Windbio
 
-This is profile page of @windbio.
+This is my website.
 
-The theme features:
+## Theme feature
 
 - [SASS](https://sass-lang.com/)
-- [Sweet Scroll](https://github.com/tsuyoshiwada/sweet-scroll)
-- [Particle.js](https://github.com/marcbruederlin/particles.js)
 - [Font Awesome](https://fontawesome.com)
-- [Devicon](https://devicon.dev/)
 - Info Customization
 
 ## Basic Setup
@@ -18,8 +15,6 @@ The theme features:
 3. Edit `_config.yml` to personalize your site.
 
 ## Running the site in local
-
-In order to run Jekyll on local you need to follow those steps:
 
 - Install [NodeJS](https://nodejs.org/)
 - Install [Jekyll](https://jekyllrb.com): `sudo gem install bundler jekyll`
